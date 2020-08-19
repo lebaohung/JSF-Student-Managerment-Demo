@@ -1,4 +1,4 @@
-package com.synergix.controller;
+package com.synergix.service;
 
 import com.synergix.service.HelloService;
 
