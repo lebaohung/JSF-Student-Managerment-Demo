@@ -1,1 +1,1 @@
-# JSF-Student-Managerment-Demo
+# JSF-Student-Management-Demo
